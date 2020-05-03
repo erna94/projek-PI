@@ -1,0 +1,7 @@
+#Fri May 01 01:04:44 WIB 2020
+base.0=/Users/caraerna/projects/Projek PI/ern-chatbot/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/caraerna/projects/Projek PI/ern-chatbot/app/build/intermediates/dex/debug/mergeProjectDexDebug/out

@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:10:1-50:12
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:10:1-50:12
+MERGED from [com.android.support:design:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/c738f6e09650b5bdfd3f322299e91231/AndroidManifest.xml:17:1-24:12
+MERGED from [com.wang.avi:library:1.0.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b8fd46d77ccdbd1643ce6c352c86967d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b414accad437134057e58985158433a2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/9b4cf95538889a905385bdc9684aabdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/3bc4b04c5f1e2b81dc5d9a847d305870/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:palette-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/72dd11137db7edd062799119113796c5/AndroidManifest.xml:17:1-25:12
+MERGED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:10:6-44:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de91fb4192f80abe0c80f3e452e9a0b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de6e719d6ccaa97c888fd184ac2b652d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/5dda19284d57f05deb9cf2e860e7dfec/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:10:1-50:12
+	package
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:11:5-32
+		INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:10:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:17:22-78
+application
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:19:5-48:19
+MERGED from [com.android.support:design:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/c738f6e09650b5bdfd3f322299e91231/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/c738f6e09650b5bdfd3f322299e91231/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b414accad437134057e58985158433a2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b414accad437134057e58985158433a2/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/3bc4b04c5f1e2b81dc5d9a847d305870/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/3bc4b04c5f1e2b81dc5d9a847d305870/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/72dd11137db7edd062799119113796c5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/72dd11137db7edd062799119113796c5/AndroidManifest.xml:22:5-23:19
+MERGED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:39:5-43:19
+MERGED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:39:5-43:19
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de91fb4192f80abe0c80f3e452e9a0b9/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de91fb4192f80abe0c80f3e452e9a0b9/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de6e719d6ccaa97c888fd184ac2b652d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de6e719d6ccaa97c888fd184ac2b652d/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/5dda19284d57f05deb9cf2e860e7dfec/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/5dda19284d57f05deb9cf2e860e7dfec/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:22:9-42
+	android:allowBackup
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:24:9-39
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:20:9-55
+activity#com.ern.retailapp.view.activities.ECartHomeActivity
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:27:9-30:61
+	android:screenOrientation
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:28:13-79
+activity#com.ern.retailapp.view.activities.APrioriResultActivity
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:32:9-35:61
+	android:screenOrientation
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:33:13-83
+activity#com.ern.retailapp.view.activities.SplashActivity
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:38:9-47:20
+	android:noHistory
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:39:13-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/c738f6e09650b5bdfd3f322299e91231/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/c738f6e09650b5bdfd3f322299e91231/AndroidManifest.xml:20:5-43
+MERGED from [com.wang.avi:library:1.0.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b8fd46d77ccdbd1643ce6c352c86967d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:1.0.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b8fd46d77ccdbd1643ce6c352c86967d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b414accad437134057e58985158433a2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b414accad437134057e58985158433a2/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/9b4cf95538889a905385bdc9684aabdf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/9b4cf95538889a905385bdc9684aabdf/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/3bc4b04c5f1e2b81dc5d9a847d305870/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/3bc4b04c5f1e2b81dc5d9a847d305870/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/72dd11137db7edd062799119113796c5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/72dd11137db7edd062799119113796c5/AndroidManifest.xml:20:5-43
+MERGED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:37:5-72
+MERGED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:37:5-72
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de91fb4192f80abe0c80f3e452e9a0b9/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de91fb4192f80abe0c80f3e452e9a0b9/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de6e719d6ccaa97c888fd184ac2b652d/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/de6e719d6ccaa97c888fd184ac2b652d/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/5dda19284d57f05deb9cf2e860e7dfec/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/5dda19284d57f05deb9cf2e860e7dfec/AndroidManifest.xml:20:5-43
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/b414accad437134057e58985158433a2/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caraerna/projects/git/skripsi/modules/android/ecommerce-app-1/app/src/main/AndroidManifest.xml
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:40:9-217
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:40:87-122
+	android:theme
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:40:172-215
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:40:53-86
+	android:name
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.8.5] /Users/caraerna/.gradle/caches/transforms-2/files-2.1/abbf95240202450a44c3919b2f9f7f4c/AndroidManifest.xml:42:43-87

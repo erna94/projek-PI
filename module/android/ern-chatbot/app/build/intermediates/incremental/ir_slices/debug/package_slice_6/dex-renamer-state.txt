@@ -1,0 +1,4 @@
+#Sun May 05 02:17:18 WIB 2019
+base.0=/Users/caraerna/projects/git/skripsi/modules/android/ern-chatbot/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
